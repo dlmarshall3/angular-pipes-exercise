@@ -1,4 +1,4 @@
-# Pipes
+# Pipes Exercise
 
 Learning in public along with Stephen Grider's Modern Angular Bootcamp.
 
